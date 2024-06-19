@@ -14,8 +14,7 @@ Each audio file is named in such a way that the 7th character is consistent with
 
 SAVEE. This dataset contains around 500 audio files recorded by 4 different male actors. The first two characters of the file name correspond to the different emotions that the potray.
 
-AIDI_1002_Final_project_report is a report file in which you will get entire code with problem statement, solution
-and limitizations also
+Final_project_report is a report file in which you will get entire code with problem statement, solution and limitizations also
 
 Emotion_Voice_Detaction_Model.h5 is a model in which after model complete one file will be saved automatically in device
 
